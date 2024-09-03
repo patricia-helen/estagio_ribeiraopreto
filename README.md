@@ -73,4 +73,8 @@ Você está em uma sala com três interruptores, cada um conectado a uma lâmpad
 
 Este desafio está implementado no arquivo `desafio5_interruptores.py`. Para executar, escolha a opção 5 no menu principal.
 
+## Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
+
 
